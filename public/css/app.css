@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+}
+
+.heading {
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    background: #E2B60E;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;       
+}
+
+h1 {
+    margin-bottom: 0px;
+    transform: scale(2,2)
+}
+
+h3 {
+    margin-top: 10px;
+}
+
