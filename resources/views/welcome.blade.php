@@ -23,6 +23,7 @@
             </div>
             
             <img src="img/morphyCoinTshirt.png">
+            <p>PS, this site might look like spam becouse of its design, but it is not. We simple refuse to use SASS,LASS, 413 different compilers, extra JS node X addons becouse thats not cool. I mean what happend to good old HTML and CSS? </p>
         </div>
     </body>
 </html>
